@@ -21,7 +21,8 @@ We liked the shape of the sine wave the most. But we wanted an even simpler logo
 
 ### Step 3: Colors
 
-We used [poolors](https://poolors.com/314545-5bc577) and [Huemint](https://huemint.com/website-1/#palette=f3f2f1-314545-5bc577) to create a color palette.
+We used [poolors](https://poolors.com/314545-5bc577) and [Huemint](https://huemint.com/website-1/#palette=f3f2f1-314545-5bc577) to create a color palette and checked the overall look and feel with [Realtime Colors](https://realtimecolors.com/?colors=314545-f3f2f1-5bc577-314545-5bc577).  
+We chose the following colors:
 
 60% / Primary: #f3f2f1  
 ![primary](assets/primary.svg)

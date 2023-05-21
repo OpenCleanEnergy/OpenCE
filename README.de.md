@@ -21,7 +21,7 @@ Uns hat die Form der Sinus-Welle am meisten gefallen. Aber wir wollten ein noch 
 
 ### Schritt 3: Farben
 
-Wir haben [poolors](https://poolors.com/314545-5bc577) und [Huemint](https://huemint.com/website-1/#palette=f3f2f1-314545-5bc577) benutzt um eine Farbpalette zu erzeugen.
+Wir haben [poolors] (https://poolors.com/314545-5bc577) und [Huemint] (https://huemint.com/website-1/#palette=f3f2f1-314545-5bc577) benutzt, um eine Farbpalette zu erstellen, und überprüften das Gesamtbild mit [Realtime Colors] (https://realtimecolors.com/?colors=314545-f3f2f1-5bc577-314545-5bc577).
 
 60% / Primary: #f3f2f1  
 ![primary](assets/primary.svg)
